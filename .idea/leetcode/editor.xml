@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="LeetcodeEditor">
+    <option name="projectConfig">
+      <map>
+        <entry key="$PROJECT_DIR$/../../Leetcode/leetcode/editor/cn/[121]买卖股票的最佳时机.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../Leetcode/leetcode/editor/cn/doc/content/[121]买卖股票的最佳时机.md" />
+              <option name="path" value="$PROJECT_DIR$/../../Leetcode/leetcode/editor/cn/[121]买卖股票的最佳时机.java" />
+              <option name="questionId" value="121" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Leetcode/leetcode/editor/cn/[350]两个数组的交集 II.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../Leetcode/leetcode/editor/cn/doc/content/[350]两个数组的交集 II.md" />
+              <option name="path" value="$PROJECT_DIR$/../../Leetcode/leetcode/editor/cn/[350]两个数组的交集 II.java" />
+              <option name="questionId" value="350" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Leetcode/leetcode/editor/cn/[566]重塑矩阵.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../Leetcode/leetcode/editor/cn/doc/content/[566]重塑矩阵.md" />
+              <option name="path" value="$PROJECT_DIR$/../../Leetcode/leetcode/editor/cn/[566]重塑矩阵.java" />
+              <option name="questionId" value="566" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
